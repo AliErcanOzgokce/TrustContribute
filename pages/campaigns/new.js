@@ -30,7 +30,7 @@ class CampaignNew extends Component {
       this.setState({ errorMessage: err.message });
     }
 
-    this.setState({ loading: false });
+    this.setState({ loading: false, minimumContribution:"" });
   };
   render() {
     return (
