@@ -30,7 +30,7 @@ First you need to install packages
  
  When your deployment process done you need to copy the contract address and paste to /ethereum/factory.js file
  
- ![carbon (1)](https://user-images.githubusercontent.com/78970916/161441404-374d3523-487a-4a27-ba5f-945ad4fd30f0.png)
+ ![carbon (2)](https://user-images.githubusercontent.com/78970916/162235564-98b513e6-0371-45db-98d2-84ea42e902e6.png)
 
  You're all set !
 
